@@ -1,0 +1,1 @@
+count algo = 13  - SolveProblemWithPython/pattern_problems.ipynb
