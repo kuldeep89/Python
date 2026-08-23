@@ -1,1 +1,22 @@
-count algo = 14  - SolveProblemWithPython/pattern_problems.ipynb
+count algo = 16
+SolveProblemWithPython/Pattern/pattern_problems.ipynb  --> 1 
+SolveProblemWithPython/Searching/searching.ipynb --> 2
+SolveProblemWithPython/Sorting/sorting.ipynb --> 3
+SolveProblemWithPython/Recursion/recursion1.ipynb --> 4
+
+Linked List
+SolveProblemWithPython/LinkedList/create_ll  - 5  
+SolveProblemWithPython/LinkedList/delete_ll - 6 Active
+
+SolveProblemWithPython/Stack/*
+SolveProblemWithPython/Queue/*
+SolveProblemWithPython/Tree/*
+SolveProblemWithPython/Graph/*
+SolveProblemWithPython/DynamicProgramming/*
+
+
+Do it later 
+Linked List  
+  5-10 insert at index recusively  
+  6-1 Delete Node at head 
+ 
